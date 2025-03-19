@@ -103,6 +103,7 @@ export default function MediaSlider() {
     </div>
   );
 }
-//new code
-//changes 2
-//added change
+// new code
+// changes 2
+// added change
+// sehaj
