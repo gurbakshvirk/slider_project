@@ -103,3 +103,4 @@ export default function MediaSlider() {
     </div>
   );
 }
+//new code
