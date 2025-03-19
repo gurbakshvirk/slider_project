@@ -105,3 +105,4 @@ export default function MediaSlider() {
 }
 //new code
 //changes 2
+//added change
